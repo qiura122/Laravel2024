@@ -24,6 +24,15 @@ class DatabaseSeeder extends Seeder
         //     'email' => 'test@example.com',
         // ]);
 
+        // User::create([
+        //     'name' => 'Komang Emo',
+        //     'username' => 'komangemo',
+        //     'email' => 'emowijaya2@gmail.com',
+        //     'email_verified_at' => now(),
+        //     'password'=> Hash::make('password'),
+        //     'remember_token'=> Str::random(10)
+        //     ]);
+
         // Category::create([
         //     'name' => 'Web Design',
         //     'slug' => 'web-design'
