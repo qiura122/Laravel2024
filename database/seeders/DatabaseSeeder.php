@@ -24,7 +24,7 @@ class DatabaseSeeder extends Seeder
         //     'email' => 'test@example.com',
         // ]);
 
-        // User::create([
+        // $komangemo = User::create([
         //     'name' => 'Komang Emo',
         //     'username' => 'komangemo',
         //     'email' => 'emowijaya2@gmail.com',
